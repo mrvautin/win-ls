@@ -19,7 +19,5 @@
     "type": "git",
     "url": "https://github.com/mrvautin/win-ls.git"
   },
-  "dependencies": {
-    "commander": "^4.0.1"
-  }
+  "dependencies": {}
 }
